@@ -39,8 +39,6 @@
 
 * 将获取到的大数据集压缩到一个小得多的数据集，并且尽可能减少损失的信息
 
-
-
 ## Linear regression model
 
 >Terminolgy
@@ -88,7 +86,6 @@
    \mu:x的均值
    $$
    
-
 3. Z-score normalization
    $$
    x = \frac{x-\mu}{\sigma}
@@ -96,8 +93,8 @@
    \\ \sigma：标准差
    $$
    
-
-    
+   
+   
 
 ### Feature engineering 特征工程
 
@@ -164,3 +161,8 @@
      ![image-20220713115407986](笔记图片/image-20220713115407986.png)
 
 ​			
+
+
+
+
+

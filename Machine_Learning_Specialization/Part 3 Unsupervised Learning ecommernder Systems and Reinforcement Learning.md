@@ -20,7 +20,7 @@
 
 * Choosing the number of clusters
 
-  1. elbow algorithm
+  1. elbow algorithm 肘部法
 
      寻找到某个k值，在该处的cost function突然下降，在该处之后的下降又减缓，像一个手肘，该处即为k值
 
